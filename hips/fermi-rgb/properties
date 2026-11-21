@@ -1,0 +1,12 @@
+creator_did=ivo://cdeil/gamma-sky-data/fermi-rgb
+obs_title=Fermi color - smoothed display
+dataproduct_type=image
+dataproduct_subtype=color
+hips_version=1.4
+hips_frame=galactic
+hips_order=3
+hips_order_min=0
+hips_tile_width=64
+hips_tile_format=png
+hips_hierarchy=mean
+hips_status=public
